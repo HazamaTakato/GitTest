@@ -5,4 +5,5 @@
 	//あああ
 
 	scanf("testtest");
+        int a:
 }
